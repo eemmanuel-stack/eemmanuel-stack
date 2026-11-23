@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ewereoke Emmanuel Onyedikachi
 
-<!--
-**eemmanuel-stack/eemmanuel-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps engineer and administrative/virtual assistant based in Nigeria.
+I build and deploy on AWS and I keep teams organised.
 
-Here are some ideas to get you started:
+## What I work with
+**Cloud & DevOps:** AWS · Microsoft Azure · Terraform · Kubernetes · Docker · GitHub Actions
+**Admin & support: ** Google Workspace · Microsoft Office · Customer support tools 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Two-tier high-availability AWS deployment** 
+- **Netflix CI/CD pipeline** with GitHub Actions to ECR 
+- **PrestaShop on EC2** with a separate MySQL server 
+- **[Lumea Treats](https://github.com/eemmanuel-stack/Lumea-Treats)**: static website, Dockerized
+
+## Background
+BSc Applied Microbiology & Brewing (Nnamdi Azikiwe University, 2023)
+· Diploma in Office Administration (CT Computer Institute, 2017)
+· Cloud & DevOps Engineering certification (Digital Witch, 2026)
+
+## Contact
+📧 Eewereoke@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/ewereoke-emmanuel-485a6a266)
